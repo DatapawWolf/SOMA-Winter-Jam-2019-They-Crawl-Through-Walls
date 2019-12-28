@@ -1,0 +1,61 @@
+<HPLMapTrack_LensFlare ID="E53EFA46941B81EDA7426EA6362DAC75D87AF3" Version="1.00">
+    <Section Name="Snafu@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Aaron@AARON-PC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUEL-PC">
+        <Objects />
+    </Section>
+    <Section Name="jens@JW2">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANSWORKLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELSPC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELS-PC">
+        <Objects />
+    </Section>
+    <Section Name="MrB@BENZIE">
+        <Objects />
+    </Section>
+    <Section Name="SNAFU@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Patrik@POMPERIPOSSA">
+        <Objects />
+    </Section>
+    <Section Name="Thomas@THOMAS-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IAN-DESKTOP">
+        <Objects />
+    </Section>
+    <Section Name="Marc@MARC-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANS-WINLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Luis@WIGGLEWAGGLES">
+        <Objects />
+    </Section>
+    <Section Name="anya@MIDGAR">
+        <Objects>
+            <LensFlare ID="520094115" Name="LensFlare_27LensFlare_27_(Conflict_Added)" CreStamp="0" ModStamp="1576474761" WorldPos="694.173 223.511 99.0795" Rotation="0.676753 0.489632 -0.800229" Scale="1 1 1" ActiveAnamorphic="false" MaterialAnamorphic="" SizeAnamorphic="1 1" ColorAnamorphic="1 1 1 1" ActiveFlare="true" MaterialFlare="D:/Projects/depth/redist/lights/lensflare/flare_star_simple.mat" SizeFlare="0.4 0.4" ColorFlare="0.914063 0.807615 0.656982 1" ActiveMultiIris="true" MaterialMultiIris="D:/Projects/depth/redist/lights/lensflare/multi_iris_simple.mat" SizeMultiIris="0.3 0.3" ColorMultiIris="0.925781 0.753582 0.509903 1" MultiIrisSeed="9260" MultiIrisCount="20" UseParentMeshForOcclusion="false" ShrinkWhenOccluded="true" MulMultiIrisWithGlare="false" SourceSize="20 20 1" InnerFOV="4.71239" OuterFOV="6.28319" GlareBrightness="0.25" GlareFOV="0" GlareStareAt="1" SizeChangeBasedOnDistance="0" MultiIrisTextureAtlasGrid="2 2" RangeMax="0 0" RangeMin="0 555" GlareRange="-1 -1" Brightness="2" CulledByDistance="false" CulledByFog="false" UID="31 87 520094115" />
+        </Objects>
+    </Section>
+    <Section Name="Peter@PETER-PC">
+        <Objects />
+    </Section>
+    <Section Name="anton@ANTON">
+        <Objects />
+    </Section>
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <Objects />
+    </Section>
+</HPLMapTrack_LensFlare>

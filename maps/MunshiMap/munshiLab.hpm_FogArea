@@ -1,0 +1,63 @@
+<HPLMapTrack_FogArea ID="E53EFA46941B81EDA7426EA6362DAC75D87AF3" Version="1.00">
+    <Section Name="Snafu@SNAFU-PC">
+        <Objects>
+            <FogArea ID="268436633" Name="FogArea_1" CreStamp="0" ModStamp="1576475510" WorldPos="321 -74.5 -142.75" Rotation="0 -1.5708 0" Scale="727.808 328.598 623.552" Color="0.225342 0.259062 0.277344 0.705882" Brightness="10" Start="0" End="1000" FalloffExp="1" ShownBacksideWhenOutside="true" ShownBacksideWhenInside="false" Underwater="false" NoiseStrength="2" NoiseSize="8" NoiseTurbulence="0.3 0.3 0.3" Skybox="false" CulledByDistance="false" CulledByFog="true" UID="16 1236 268436633" />
+        </Objects>
+    </Section>
+    <Section Name="Aaron@AARON-PC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUEL-PC">
+        <Objects />
+    </Section>
+    <Section Name="jens@JW2">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANSWORKLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELSPC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELS-PC">
+        <Objects />
+    </Section>
+    <Section Name="MrB@BENZIE">
+        <Objects />
+    </Section>
+    <Section Name="SNAFU@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Patrik@POMPERIPOSSA">
+        <Objects />
+    </Section>
+    <Section Name="Thomas@THOMAS-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IAN-DESKTOP">
+        <Objects />
+    </Section>
+    <Section Name="Marc@MARC-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANS-WINLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Luis@WIGGLEWAGGLES">
+        <Objects />
+    </Section>
+    <Section Name="anya@MIDGAR">
+        <Objects />
+    </Section>
+    <Section Name="Peter@PETER-PC">
+        <Objects />
+    </Section>
+    <Section Name="anton@ANTON">
+        <Objects />
+    </Section>
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <Objects>
+            <FogArea ID="570425701" Name="FogArea_2" CreStamp="1576476956" ModStamp="1576477203" WorldPos="122.5 -74.5 -142.75" Rotation="0 -1.5708 0" Scale="727.75 328.5 229.5" Color="0.225342 0.259062 0.277344 0.705882" Brightness="1" Start="0" End="100" FalloffExp="1" ShownBacksideWhenOutside="true" ShownBacksideWhenInside="false" Underwater="false" NoiseStrength="0" NoiseSize="8" NoiseTurbulence="0.3 0.3 0.3" Skybox="false" CulledByDistance="false" CulledByFog="true" UID="34 1205 570425701" />
+        </Objects>
+    </Section>
+</HPLMapTrack_FogArea>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content Version="1.0"
+	Type="StandAlone"
+	Title="They Crawl Through Walls"
+	UID="datapawwolf.theycrawlthroughwalls"
+	Author="DatapawWolf"
+	Description="A 2019 Winter Mod Jam entry."
+	LauncherPic="LauncherPic.png"
+	
+	Dependencies="draugemalf.winterassets"
+	
+	InitCfg="config/main_init.cfg"
+/>

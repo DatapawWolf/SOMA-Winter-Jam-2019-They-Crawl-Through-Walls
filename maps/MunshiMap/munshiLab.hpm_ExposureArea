@@ -1,0 +1,63 @@
+<HPLMapTrack_ExposureArea ID="E53EFA46941B81EDA7426EA6362DAC75D87AF3" Version="1.00">
+    <Section Name="Snafu@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Aaron@AARON-PC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUEL-PC">
+        <Objects />
+    </Section>
+    <Section Name="jens@JW2">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANSWORKLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELSPC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELS-PC">
+        <Objects />
+    </Section>
+    <Section Name="MrB@BENZIE">
+        <Objects />
+    </Section>
+    <Section Name="SNAFU@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Patrik@POMPERIPOSSA">
+        <Objects />
+    </Section>
+    <Section Name="Thomas@THOMAS-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IAN-DESKTOP">
+        <Objects />
+    </Section>
+    <Section Name="Marc@MARC-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANS-WINLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Luis@WIGGLEWAGGLES">
+        <Objects />
+    </Section>
+    <Section Name="anya@MIDGAR">
+        <Objects>
+            <ExposureArea ID="520094146" Name="ExposureArea_1" CreStamp="1432646594" ModStamp="1576475143" WorldPos="9.35802 1.64809 -37.2969" Rotation="0 0 0" Scale="1.54931 3.08454 2.01784" Exposure="-0.5" WhiteCut="4" TransitionTime="2" UID="31 1550 520094146" />
+            <ExposureArea ID="520094148" Name="ExposureArea_2" CreStamp="1432649487" ModStamp="1576475024" WorldPos="9.33457 2.09453 -33.3288" Rotation="0 0 0" Scale="1.54931 3.08454 1.98467" Exposure="-0.5" WhiteCut="4" TransitionTime="2" UID="31 1575 520094148" />
+            <ExposureArea ID="520094149" Name="ExposureArea_3" CreStamp="1432649491" ModStamp="1576475150" WorldPos="9.38593 1.98752 -28.8401" Rotation="0 0 0" Scale="1.54931 3.08454 2.28323" Exposure="-0.5" WhiteCut="4" TransitionTime="1.9" UID="31 1576 520094149" />
+        </Objects>
+    </Section>
+    <Section Name="Peter@PETER-PC">
+        <Objects />
+    </Section>
+    <Section Name="anton@ANTON">
+        <Objects />
+    </Section>
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <Objects />
+    </Section>
+</HPLMapTrack_ExposureArea>

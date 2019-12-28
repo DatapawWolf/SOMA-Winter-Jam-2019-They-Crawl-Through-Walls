@@ -1,0 +1,97 @@
+<HPLMapTrack_ParticleSystem ID="E53EFA46941B81EDA7426EA6362DAC75D87AF3" Version="1.00">
+    <Section Name="Snafu@SNAFU-PC">
+        <Objects>
+            <ParticleSystem ID="268436086" Name="ParticleSystem_4" CreStamp="0" ModStamp="1421351575" WorldPos="-0.443749 3.66947 14.2034" Rotation="0 0 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 0.882353 0.588235" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 84 268436086" />
+            <ParticleSystem ID="268436092" Name="ParticleSystem_6" CreStamp="0" ModStamp="1421351575" WorldPos="0.400804 3.66947 14.2034" Rotation="0 0 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 0.882353 0.588235" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 85 268436092" />
+            <ParticleSystem ID="268436102" Name="ParticleSystem_7" CreStamp="0" ModStamp="1421414773" WorldPos="6.03203 3.49624 -36.1027" Rotation="0 -1.5708 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.515625" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 83 268436102" />
+            <ParticleSystem ID="268436107" Name="ParticleSystem_8" CreStamp="0" ModStamp="1421414763" WorldPos="2.57034 3.45083 -32.7977" Rotation="-3.14159 3.1416 -3.14159" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.511719" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 86 268436107" />
+            <ParticleSystem ID="268436110" Name="ParticleSystem_1" CreStamp="0" ModStamp="1432724845" WorldPos="711.75 65.75 75" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 82 268436110" />
+            <ParticleSystem ID="268436526" Name="ParticleSystem_5" CreStamp="0" ModStamp="1421414778" WorldPos="2.75964 3.45426 -36.2219" Rotation="0 -1.5708 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.492188" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 80 268436526" />
+            <ParticleSystem ID="268436548" Name="ParticleSystem_9" CreStamp="0" ModStamp="1421414767" WorldPos="2.55524 3.45758 -29.4364" Rotation="-3.14159 3.1416 -3.14159" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.496094" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="16 111 268436548" />
+        </Objects>
+    </Section>
+    <Section Name="Aaron@AARON-PC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUEL-PC">
+        <Objects />
+    </Section>
+    <Section Name="jens@JW2">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IANSWORKLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELSPC">
+        <Objects />
+    </Section>
+    <Section Name="Samuel@SAMUELS-PC">
+        <Objects />
+    </Section>
+    <Section Name="MrB@BENZIE">
+        <Objects />
+    </Section>
+    <Section Name="SNAFU@SNAFU-PC">
+        <Objects />
+    </Section>
+    <Section Name="Patrik@POMPERIPOSSA">
+        <Objects />
+    </Section>
+    <Section Name="Thomas@THOMAS-PC">
+        <Objects />
+    </Section>
+    <Section Name="Ian@IAN-DESKTOP">
+        <Objects />
+    </Section>
+    <Section Name="Marc@MARC-PC">
+        <Objects>
+            <ParticleSystem ID="469762200" Name="ParticleSystem_10" CreStamp="1421658408" ModStamp="1421658425" WorldPos="8.59118 1.54395 -37.3442" Rotation="0 -1.5708 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.515625" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="28 83 469762200" />
+            <ParticleSystem ID="469762201" Name="ParticleSystem_11" CreStamp="1421658426" ModStamp="1421658434" WorldPos="8.59118 1.54395 -33.4346" Rotation="0 -1.5708 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.515625" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="28 1264 469762201" />
+            <ParticleSystem ID="469762202" Name="ParticleSystem_12" CreStamp="1421658435" ModStamp="1421658439" WorldPos="8.59118 1.54395 -28.9242" Rotation="0 -1.5708 0" Scale="1 1 1" File="D:/Projects/depth/redist/particles/dust/dust_light_tiny.ps" Color="1 1 1 0.515625" Brightness="1" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="28 1265 469762202" />
+        </Objects>
+    </Section>
+    <Section Name="Ian@IANS-WINLAPTOP">
+        <Objects />
+    </Section>
+    <Section Name="Luis@WIGGLEWAGGLES">
+        <Objects />
+    </Section>
+    <Section Name="anya@MIDGAR">
+        <Objects>
+            <ParticleSystem ID="520093708" Name="ParticleSystem_3" CreStamp="1429800132" ModStamp="1432724831" WorldPos="550.446 159.75 -293.5" Rotation="0 -1.5708 0" Scale="2 2 2" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.84375 0.84375 0.84375 1" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="31 81 520093708" />
+            <ParticleSystem ID="520094040" Name="ParticleSystem_14" CreStamp="1432214305" ModStamp="1432541965" WorldPos="48.6172 16.5 25.8218" Rotation="-0.545923 0.633022 0.113888" Scale="1 1.5 1" File="D:/SOMA/trunk/redist/particles/smoke/smoke_big_puff_loop.ps" Color="0.566406 0.566406 0.566406 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="31 1251 520094040" />
+        </Objects>
+    </Section>
+    <Section Name="Peter@PETER-PC">
+        <Objects />
+    </Section>
+    <Section Name="anton@ANTON">
+        <Objects />
+    </Section>
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <Objects>
+            <ParticleSystem ID="570425575" Name="ParticleSystem_16" CreStamp="1576385782" ModStamp="1576473036" WorldPos="29.9075 24.1836 -37.7186" Rotation="0.00368682 -0.0978665 -2.20076" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1252 570425575" />
+            <ParticleSystem ID="570425576" Name="ParticleSystem_17" CreStamp="1576385787" ModStamp="1576473036" WorldPos="29.9075 24.1836 -33.0375" Rotation="0.00368682 -0.0978665 -2.20076" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1223 570425576" />
+            <ParticleSystem ID="570425678" Name="ParticleSystem_18" CreStamp="1576472903" ModStamp="1576473036" WorldPos="29.9075 24.1836 -28.6326" Rotation="0.00368682 -0.0978665 -2.20076" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1486 570425678" />
+            <ParticleSystem ID="570425679" Name="ParticleSystem_19" CreStamp="1576472947" ModStamp="1576473036" WorldPos="29.9075 24.1836 -23.7938" Rotation="0.00368682 -0.0978665 -2.20076" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1484 570425679" />
+            <ParticleSystem ID="570425680" Name="ParticleSystem_20" CreStamp="1576473060" ModStamp="1576473061" WorldPos="29.9075 24.1836 -42.1821" Rotation="0.00368682 -0.0978665 -2.20076" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1485 570425680" />
+            <ParticleSystem ID="570425682" Name="ParticleSystem_21" CreStamp="1576473060" ModStamp="1576473061" WorldPos="17.3643 24.1836 -42.1821" Rotation="0.00368682 -0.0978665 -1.75989" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1488 570425682" />
+            <ParticleSystem ID="570425683" Name="ParticleSystem_22" CreStamp="1576472947" ModStamp="1576473036" WorldPos="17.3643 24.1836 -23.7938" Rotation="0.00368682 -0.0978665 -1.75989" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1490 570425683" />
+            <ParticleSystem ID="570425684" Name="ParticleSystem_23" CreStamp="1576385782" ModStamp="1576473036" WorldPos="17.3643 24.1836 -37.7186" Rotation="0.00368682 -0.0978665 -1.75989" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1487 570425684" />
+            <ParticleSystem ID="570425685" Name="ParticleSystem_24" CreStamp="1576472903" ModStamp="1576473036" WorldPos="17.3643 24.1836 -28.6326" Rotation="0.00368682 -0.0978665 -1.75989" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1491 570425685" />
+            <ParticleSystem ID="570425686" Name="ParticleSystem_25" CreStamp="1576385787" ModStamp="1576473036" WorldPos="17.3643 24.1836 -33.0375" Rotation="0.00368682 -0.0978665 -1.75989" Scale="1 1 1" File="C:/Program Files (x86)/Steam/steamapps/common/SOMA/mods/WinterAssets/assets/particles/draugemalf/blizzardBox.ps" Color="1 1 1 1" Brightness="1" FadeAtDistance="true" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1489 570425686" />
+            <ParticleSystem ID="570425688" Name="ParticleSystem_2" CreStamp="1576476445" ModStamp="1576476446" WorldPos="711.75 65.75 -67.5" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1497 570425688" />
+            <ParticleSystem ID="570425689" Name="ParticleSystem_13" CreStamp="1576476451" ModStamp="1576476452" WorldPos="711.75 158 216.75" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1496 570425689" />
+            <ParticleSystem ID="570425690" Name="ParticleSystem_15" CreStamp="1576476453" ModStamp="1576476455" WorldPos="711.75 219.5 -85.5" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1206 570425690" />
+            <ParticleSystem ID="570425691" Name="ParticleSystem_26" CreStamp="1576476457" ModStamp="1576476460" WorldPos="574.5 115.75 -85.5" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1483 570425691" />
+            <ParticleSystem ID="570425692" Name="ParticleSystem_27" CreStamp="1576476461" ModStamp="1576476462" WorldPos="450.25 115.75 164" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1213 570425692" />
+            <ParticleSystem ID="570425693" Name="ParticleSystem_28" CreStamp="1576476469" ModStamp="1576476470" WorldPos="711.75 314.25 206.25" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1212 570425693" />
+            <ParticleSystem ID="570425694" Name="ParticleSystem_29" CreStamp="1576476471" ModStamp="1576476472" WorldPos="711.75 314.25 31" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1211 570425694" />
+            <ParticleSystem ID="570425695" Name="ParticleSystem_30" CreStamp="1576476477" ModStamp="1576476546" WorldPos="556 125.75 246" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1210 570425695" />
+            <ParticleSystem ID="570425696" Name="ParticleSystem_31" CreStamp="1576476514" ModStamp="1576476516" WorldPos="450.25 209.25 218.75" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1209 570425696" />
+            <ParticleSystem ID="570425697" Name="ParticleSystem_32" CreStamp="1576476518" ModStamp="1576476520" WorldPos="711.75 505.25 -259.75" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1208 570425697" />
+            <ParticleSystem ID="570425698" Name="ParticleSystem_33" CreStamp="1576476522" ModStamp="1576476525" WorldPos="711.75 589.25 -80.5" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 1207 570425698" />
+            <ParticleSystem ID="570425699" Name="ParticleSystem_34" CreStamp="1576476561" ModStamp="1576476562" WorldPos="711.75 589.25 108" Rotation="0 -1.5708 0" Scale="4 4 4" File="D:/SOMA/trunk/redist/particles/fog/outside_clouds_moving_slow.ps" Color="0.683594 0.683594 0.683594 0.816406" Brightness="0.8" FadeAtDistance="false" MinFadeDistanceStart="2" MaxFadeDistanceStart="100" MinFadeDistanceEnd="1" MaxFadeDistanceEnd="110" CulledByDistance="true" CulledByFog="true" ConnectLight="" UID="34 82 570425699" />
+        </Objects>
+    </Section>
+</HPLMapTrack_ParticleSystem>
