@@ -1,0 +1,22 @@
+<PreloadCache>
+    <Materials>
+        <Material DebugPos="119.369003 : 200.993561 : -75.000465" Path="entities/character/urban/professor/professor_body.mat" />
+        <Material DebugPos="119.369003 : 200.993561 : -75.000465" Path="entities/character/urban/professor/professor_head.mat" />
+        <Material DebugPos="120.548805 : 202.890366 : -82.008385" Path="entities/station/doors/swingdoor_tau_radiation/swingdoor_tau_radiation.mat" />
+        <Material DebugPos="108.125000 : 199.999496 : -83.500000" Path="static_objects/station/floor/floor_theta02.mat" />
+        <Material DebugPos="Script" Path="damage_steam_screen.mat" />
+        <Material DebugPos="Script" Path="d:/svn/depth/redist/textures/technical/advanced_black.mat" />
+        <Material DebugPos="Script" Path="entities/station/tech/computer_panels/computer_panels.mat" />
+        <Material DebugPos="Script" Path="entities/station/tech/computer_panels/computer_panels_large_gui.mat" />
+        <Material DebugPos="Script" Path="entities/character/player/hands/hands_human_shirt.mat" />
+        <Material DebugPos="Script" Path="entities/character/player/hands/hands_human_skin.mat" />
+    </Materials>
+    <EntFiles>
+        <EntFile DebugPos="Script" Path="death_terminal.ent" />
+        <EntFile DebugPos="Script" Path="character/player/hands/hands_human.ent" />
+    </EntFiles>
+    <ParticleSystems>
+        <ParticleSystem DebugPos="Script" Path="underwater_footstep_sand_oneshot.ps" />
+    </ParticleSystems>
+    <AINodes />
+</PreloadCache>

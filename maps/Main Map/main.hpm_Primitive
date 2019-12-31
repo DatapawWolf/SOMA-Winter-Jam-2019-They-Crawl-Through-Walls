@@ -1,0 +1,7 @@
+<HPLMapTrack_Primitive ID="F32FC15D3950447CC7A39F171AEE13C7469B6565" Version="1.00">
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <Objects>
+            <Plane ID="268435487" Name="Plane" CreStamp="1577656449" ModStamp="1577663100" WorldPos="66.7825 151 43.75" Rotation="0 0 0" Scale="1 1 1" Material="static_objects/station/floor/lab_linoleum.mat" StartCorner="0 0 0" EndCorner="24.25 0 26" CastShadows="false" Collides="true" DiffuseColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" TileAmount="0.5 1 0.5" TileOffset="0 0 0" TextureAngle="0" AlignToWorldCoords="false" UID="16 27 268435487" Corner1UV="0 13" Corner2UV="0 0" Corner3UV="12.125 0" Corner4UV="12.125 13" />
+        </Objects>
+    </Section>
+</HPLMapTrack_Primitive>

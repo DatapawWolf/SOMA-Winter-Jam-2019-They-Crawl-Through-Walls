@@ -1,0 +1,38 @@
+<HPLMapTrack_StaticObject ID="F32FC15D3950447CC7A39F171AEE13C7469B6565" Version="1.00">
+    <Section Name="DatapawWolf@DESKTOP-AB5120F">
+        <FileIndex_StaticObjects NumOfFiles="20">
+            <File Id="0" Path="static_objects/station/tunnel/tau_tunnel_door_large_frame.dae" />
+            <File Id="1" Path="static_objects/station/walls/bevelled.dae" />
+            <File Id="2" Path="static_objects/station/walls/bevelled_concave_small.dae" />
+            <File Id="3" Path="static_objects/station/walls/bevelled_console.dae" />
+            <File Id="4" Path="static_objects/station/walls/flat.dae" />
+            <File Id="5" Path="static_objects/station/walls/flat_cross_girder.dae" />
+            <File Id="6" Path="static_objects/station/walls/flat_extender.dae" />
+            <File Id="7" Path="static_objects/station/walls/flat_short.dae" />
+            <File Id="8" Path="static_objects/station/walls/flat_short_extender.dae" />
+            <File Id="9" Path="static_objects/station/walls/theta_ground_right_short.dae" />
+            <File Id="10" Path="static_objects/station/walls/theta_ground_details01.dae" />
+            <File Id="11" Path="static_objects/station/walls/theta_ground_bend_outward.dae" />
+            <File Id="12" Path="static_objects/station/walls/theta_ground.dae" />
+            <File Id="13" Path="static_objects/station/walls/theta_boxed_pipes.dae" />
+            <File Id="14" Path="static_objects/station/walls/theta_ground_short.dae" />
+            <File Id="15" Path="static_objects/station/walls/theta_ground_window_small.dae" />
+            <File Id="16" Path="static_objects/station/walls/theta_ground_details01_open.dae" />
+            <File Id="17" Path="static_objects/station/walls/theta_ground_bottom.dae" />
+            <File Id="18" Path="static_objects/station/walls/theta_ground_bottom_bend.dae" />
+            <File Id="19" Path="static_objects/station/walls/theta_ground_bend.dae" />
+        </FileIndex_StaticObjects>
+        <Objects>
+            <StaticObject ID="268435522" Name="station_walls_theta_ground_1" CreStamp="1577660312" ModStamp="1577662813" WorldPos="79.5 151 51.5" Rotation="0 0 0" Scale="1 1 1" FileIndex="12" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 25 268435522" />
+            <StaticObject ID="268435525" Name="station_walls_theta_ground_2" CreStamp="1577660325" ModStamp="1577662813" WorldPos="75.5 151 51.5" Rotation="0 0 0" Scale="1 1 1" FileIndex="12" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 23 268435525" />
+            <StaticObject ID="268435527" Name="station_walls_theta_ground_3" CreStamp="1577660328" ModStamp="1577662813" WorldPos="83.5 151 51.5" Rotation="0 0 0" Scale="1 1 1" FileIndex="12" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 24 268435527" />
+            <StaticObject ID="268435532" Name="station_walls_theta_ground_window_small_1" CreStamp="1577662859" ModStamp="1577662892" WorldPos="90.25 153 53.5" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="15" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 30 268435532" />
+            <StaticObject ID="268435533" Name="station_walls_theta_ground_window_small_2" CreStamp="1577662862" ModStamp="1577662899" WorldPos="90.25 153 65" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="15" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 26 268435533" />
+            <StaticObject ID="268435535" Name="station_walls_theta_ground_bottom_1" CreStamp="1577662883" ModStamp="1577662883" WorldPos="90.25 151 51.5" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="17" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 21 268435535" />
+            <StaticObject ID="268435536" Name="station_walls_theta_ground_bottom_2" CreStamp="1577662884" ModStamp="1577662884" WorldPos="90.25 151 63" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="17" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 22 268435536" />
+            <StaticObject ID="268435539" Name="station_walls_theta_ground_bottom_bend_1" CreStamp="1577663084" ModStamp="1577663084" WorldPos="90.25 151 67" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="18" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 19 268435539" />
+            <StaticObject ID="268435540" Name="station_walls_theta_ground_bend_1" CreStamp="1577663088" ModStamp="1577663092" WorldPos="90.25 153 67" Rotation="0 -1.5708 0" Scale="1 1 1" FileIndex="19" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 18 268435540" />
+            <StaticObject ID="268435541" Name="station_walls_theta_ground_bottom_3" CreStamp="1577663121" ModStamp="1577663142" WorldPos="87.75 151 69.5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="17" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 20 268435541" />
+        </Objects>
+    </Section>
+</HPLMapTrack_StaticObject>
