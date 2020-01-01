@@ -1,7 +1,7 @@
 <HPLMapTrack_Area ID="F32FC15D3950447CC7A39F171AEE13C7469B6565" Version="1.00">
     <Section Name="DatapawWolf@DESKTOP-AB5120F">
         <Objects>
-            <Area ID="268435495" Name="PlayerStartArea_1" CreStamp="1577656862" ModStamp="1577659598" WorldPos="88.283 151.75 54.25" Rotation="0 0 0" Scale="0.7 1.9 0.7" Active="true" Mesh="" UID="16 28 268435495" AreaType="PlayerStart">
+            <Area ID="268435495" Name="PlayerStartArea_1" CreStamp="1577656862" ModStamp="1577769174" WorldPos="85.1687 151.956 56.7653" Rotation="0 0 0" Scale="0.7 1.9 0.7" Active="true" Mesh="" UID="16 28 268435495" AreaType="PlayerStart">
                 <UserVariables>
                     <Var Name="Crouching" Value="false" />
                 </UserVariables>
