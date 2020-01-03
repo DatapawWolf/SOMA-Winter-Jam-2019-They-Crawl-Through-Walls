@@ -1,5 +1,5 @@
 <HPLMapTrack_Terrain ID="F32FC15D3950447CC7A39F171AEE13C7469B6565" Version="1.00">
-    <Terrain Active="true" GeometryPatchSize="32" TexturePatchSize="32" HeightMapSize="1024" MaxHeight="256" UnitSize="1" UndergrowthGridSize="10" UndergrowthFadeStart="18" UndergrowthFadeEnd="20" BaseMaterialFile="mods/WinterAssets/assets/textures/draugemalf/snow/snow_default_diffuse.mat" BaseMaterialTileAmount="0.25" BaseMaterialStartFadeValue="0" BaseMaterialDetailTextureAmount="1 0 0" BaseMaterialHeightMapScale="0" MaterialSpecularPower="0.3" CliffTextureDiffuse="" CliffTextureNMap="" CliffTextureSize="1" CliffTextureFadeAngleMul="1">
+    <Terrain Active="true" GeometryPatchSize="32" TexturePatchSize="32" HeightMapSize="1024" MaxHeight="256" UnitSize="1" UndergrowthGridSize="10" UndergrowthFadeStart="18" UndergrowthFadeEnd="20" BaseMaterialFile="mods/WinterAssets/assets/textures/draugemalf/snow/snow_default_diffuse.mat" BaseMaterialTileAmount="0.25" BaseMaterialStartFadeValue="0" BaseMaterialDetailTextureAmount="1 0 0" BaseMaterialHeightMapScale="0" MaterialSpecularPower="0.3" CliffTextureDiffuse="mods/WinterAssets/assets/textures/draugemalf/Rock_custom.dds" CliffTextureNMap="mods/WinterAssets/assets/textures/draugemalf/Rock_custom_normal.dds" CliffTextureSize="0.2" CliffTextureFadeAngleMul="0.7">
         <DetailTextures DetailFadeStart="10" DetailFadeEnd="20">
             <DetailTexture ID="0" File="" Scale="1" />
             <DetailTexture ID="1" File="" Scale="1" />
@@ -7,7 +7,7 @@
         </DetailTextures>
         <BlendLayers>
             <BlendLayer ID="0">
-                <Material File="" TileAmount="0.25" StartFadeValue="0" DetailTextureAmount="1 0 0" HeightMapScale="0" />
+                <Material File="textures/terrain/rock/rockwall_forest.mat" TileAmount="0.25" StartFadeValue="0" DetailTextureAmount="1 0 0" HeightMapScale="0" />
                 <Material File="" TileAmount="0.25" StartFadeValue="0" DetailTextureAmount="1 0 0" HeightMapScale="0" />
                 <Material File="" TileAmount="0.25" StartFadeValue="0" DetailTextureAmount="1 0 0" HeightMapScale="0" />
                 <Material File="" TileAmount="0.25" StartFadeValue="0" DetailTextureAmount="1 0 0" HeightMapScale="0" />
